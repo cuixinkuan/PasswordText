@@ -1,5 +1,5 @@
 
-#PasswordText
+# PasswordText
 ## ☆☆☆ “好用的密码键盘” ☆☆☆
 ##使用简单，两步就搞定啦，可以根据自己的需求修改和扩展。
 ###（1）导入CCPasswordText文件夹，

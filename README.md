@@ -18,4 +18,4 @@ NSLog(@"----------> password:%@",password);
 [self.view addSubview:pwView];
 
 #PS:如需更详细的设置，进入类内部，都写的有注释。
-![](http://ww4.sinaimg.cn/bmiddle/9b8146edjw1esvytq7lwrg208p0fce82.gif)
+![](https://github.com/cuixinkuan/PasswordText/blob/master/15.gif)

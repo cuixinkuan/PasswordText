@@ -18,4 +18,5 @@
 ### [self.view addSubview:pwView];
 
 ## PS:如需更详细的设置，进入CCPasswordTextView.m，写的有注释。
+## 简单效果如下图
 ![](https://github.com/cuixinkuan/PasswordText/blob/master/15.gif)

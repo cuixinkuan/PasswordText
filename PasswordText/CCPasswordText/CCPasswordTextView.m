@@ -120,6 +120,7 @@
 - (void)textChange:(UITextField *)textField {
     NSString * password = textField.text;
     if (password.length > self.elementCount) {
+        textField.text = [password substringToIndex:self.elementCount];
         return;
     }
     
